@@ -1,0 +1,27 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .hero {
+    height: 100vh;
+    background: linear-gradient(to bottom right, #1d3557, #457b9d);
+  }
+  
+  .hero h1 {
+    font-size: 3.5rem;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+  }
+  
+  section {
+    padding: 60px 0;
+  }
+  
+  footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+  
